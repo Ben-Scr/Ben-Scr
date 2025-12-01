@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,python" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,python" />
 </p>
 <!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=Ben-Scr&theme=tokyonight) -->
 <!--
