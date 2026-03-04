@@ -1,4 +1,3 @@
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
 [![Github stats](https://github-readme-mwendwa.vercel.app/api?username=ben-scr&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=dark&title_color=00b3ff)](#)
@@ -6,4 +5,12 @@
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=ben-scr&layout=compact&count_private=true&theme=dark&title_color=00b3ff)](#)
 
 [![Current streak](https://streak-stats.demolab.com/?user=ben-scr&count_private=true&theme=dark&title_color=00b3ff)](#)
-Test 
+
+<!-- Snake contributions graph https://github.com/Platane/snk -->
+<div align="center">
+  <img src="https://github.com/ben-scr/ben-scr/blob/main/docker/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Stats Overview"/>
+   <img src="https://github.com/ben-scr/ben-scr/blob/main/docker/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Stats Overview"/>
+</div>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ben-scr&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" />
