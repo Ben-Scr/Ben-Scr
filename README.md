@@ -6,11 +6,12 @@
 
 [![Current streak](https://streak-stats.demolab.com/?user=ben-scr&count_private=true&theme=dark&title_color=00b3ff)](#)
 
+##
+
 <!-- Snake Animation -->
-<div align="center">
-![snake gif](https://github.com/Ben-Scr/Ben-Scr/blob/output/github-snake-dark.svg)
-</div>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Ben-Scr/Ben-Scr/output/github-snake-dark.svg" alt="snake" />
+</p>
 
-
-
+##
 <img src="https://komarev.com/ghpvc/?username=ben-scr&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" />
