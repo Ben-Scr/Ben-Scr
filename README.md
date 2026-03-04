@@ -6,11 +6,11 @@
 
 [![Current streak](https://streak-stats.demolab.com/?user=ben-scr&count_private=true&theme=dark&title_color=00b3ff)](#)
 
-<!-- Snake contributions graph https://github.com/Platane/snk -->
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://github.com/ben-scr/ben-scr/blob/main/docker/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Stats Overview"/>
-   <img src="https://github.com/ben-scr/ben-scr/blob/main/docker/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Stats Overview"/>
+![snake gif](https://github.com/Ben-Scr/Ben-Scr/blob/output/github-snake-dark.svg)
 </div>
-<br>
+
+
 
 <img src="https://komarev.com/ghpvc/?username=ben-scr&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" />
