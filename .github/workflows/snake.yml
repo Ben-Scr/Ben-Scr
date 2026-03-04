@@ -19,7 +19,7 @@ jobs:
             dist/docker/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/docker/github-contribution-grid-snake.gif?color_snake=purple&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: ben-scr/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
