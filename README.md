@@ -10,8 +10,9 @@
 
 <h3>Languages & Technologies</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-0b1f3a?style=for-the-badge&logo=csharp&logoColor=00b3ff" alt="C#" />
+  <img src="https://img.shields.io/badge/C-0b1f3a?style=for-the-badge&logo=c&logoColor=00b3ff" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-0b1f3a?style=for-the-badge&logo=cplusplus&logoColor=00b3ff" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-0b1f3a?style=for-the-badge&logo=csharp&logoColor=00b3ff" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-0b1f3a?style=for-the-badge&logo=dotnet&logoColor=00b3ff" alt=".NET" />
   <img src="https://img.shields.io/badge/PHP-0b1f3a?style=for-the-badge&logo=php&logoColor=00b3ff" alt="PHP" />
   <img src="https://img.shields.io/badge/HTML5-0b1f3a?style=for-the-badge&logo=html5&logoColor=00b3ff" alt="HTML5" />
