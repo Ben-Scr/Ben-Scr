@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-0b1f3a?style=for-the-badge&logo=cplusplus&logoColor=00b3ff" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-0b1f3a?style=for-the-badge&logo=csharp&logoColor=00b3ff" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-0b1f3a?style=for-the-badge&logo=dotnet&logoColor=00b3ff" alt=".NET" />
+  <img src="https://img.shields.io/badge/Java-0b1f3a?style=for-the-badge&logo=openjdk&logoColor=00b3ff" alt="Java" />
   <img src="https://img.shields.io/badge/PHP-0b1f3a?style=for-the-badge&logo=php&logoColor=00b3ff" alt="PHP" />
   <img src="https://img.shields.io/badge/HTML5-0b1f3a?style=for-the-badge&logo=html5&logoColor=00b3ff" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-0b1f3a?style=for-the-badge&logo=css3&logoColor=00b3ff" alt="CSS3" />
@@ -25,6 +26,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0b1f3a?style=for-the-badge&logo=visualstudiocode&logoColor=00b3ff" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Visual%20Studio-0b1f3a?style=for-the-badge&logo=visualstudio&logoColor=00b3ff" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/Unity-0b1f3a?style=for-the-badge&logo=unity&logoColor=00b3ff" alt="Unity" />
   <img src="https://img.shields.io/badge/XAMPP-0b1f3a?style=for-the-badge&logo=xampp&logoColor=00b3ff" alt="XAMPP" />
 </p>
