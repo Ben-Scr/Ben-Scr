@@ -1,5 +1,3 @@
-<h1 align="center">Ben Schneider</h1>
-
 <h2 align="center">Tech Stack</h2>
 
 <h3 align="center">Languages &amp; Technologies</h3>
